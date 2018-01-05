@@ -14,6 +14,9 @@
             "timestamp" : "0x54c98c81",
             "transactionsTrie" : "0x56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+			"runningVersion" : "0x00",
+			"hardforkVersion" : "0x00",
+			"genesisTime" : "0x00",
 			"v" : "0x1b",
 			"r" : "0x00",
 			"s" : "0x00"
@@ -121,7 +124,7 @@
                         "to" : "095e7baea6a6c7c4c2dfeb977efac326af552d87",
                         "value" : "100"
                     },
-            {
+                    {
                         "data" : "",
                         "gasLimit" : "31509",
                         "gasPrice" : "1",
