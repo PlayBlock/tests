@@ -61,6 +61,12 @@
 			    "nonce" : "0x00",
 		        "code" : "",
                 "storage": {}
+		    },
+			"000000000000000000000000000000000000002b" : {
+		        "balance" : "123000000000000000000",
+			    "nonce" : "0x00",
+		        "code" : "",
+                "storage": {}
 		    }
         },
         "blocks" : [
@@ -213,6 +219,15 @@
         "chainname" : "A",
         "blocknumber" : "10",
                 "transactions" : [
+				    {
+                        "data" : "",
+                        "gasLimit" : "0xc350",
+                        "gasPrice" : "0x04a817c800",
+                        "nonce" : "0",
+                        "secretKey" : "fabac3ed98f7c3d753e70ebbab53dadf12a2f2ed3db31b1301140fededb61757",
+                        "to" : "000000000000000000000000000000000000002c",
+                        "value" : "0x00"
+                    },
 					{
                         "data" : "",
                         "gasLimit" : "314159",
