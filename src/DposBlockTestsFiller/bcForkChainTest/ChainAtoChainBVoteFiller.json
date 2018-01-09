@@ -29,7 +29,7 @@
 				"balance" : "590"
 			    },
 				"6eaa7ec4508b82fc300b131707485a93fe85bff8" : {
-				"nonce" : "0"
+				"nonce" : "1"
 				},
 			    "a94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
 				"nonce" : "14"
@@ -213,15 +213,6 @@
         "chainname" : "A",
         "blocknumber" : "10",
                 "transactions" : [
-				    {
-                        "data" : "0x610062",
-                        "gasLimit" : "0xc350",
-                        "gasPrice" : "0x04a817c800",
-                        "nonce" : "0",
-                        "secretKey" : "fabac3ed98f7c3d753e70ebbab53dadf12a2f2ed3db31b1301140fededb61757",
-                        "to" : "0000000000000000000000000000000000000024",
-                        "value" : "0x00"
-                    },
 					{
                         "data" : "",
                         "gasLimit" : "314159",
@@ -290,7 +281,15 @@
 			"chainname" : "B",
         "blocknumber" : "10",
                 "transactions" : [
-				    
+				    {
+                        "data" : "0x610062",
+                        "gasLimit" : "0xc350",
+                        "gasPrice" : "0x04a817c800",
+                        "nonce" : "0",
+                        "secretKey" : "fabac3ed98f7c3d753e70ebbab53dadf12a2f2ed3db31b1301140fededb61757",
+                        "to" : "0000000000000000000000000000000000000024",
+                        "value" : "0x00"
+                    },
                     {
                         "data" : "",
                         "gasLimit" : "31059",
