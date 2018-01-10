@@ -2,7 +2,7 @@
     "ChainAtoChainB_Frontier" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.bc672c33.Windows.msvc",
+            "filledwith" : "cpp-1.3.0+commit.d203469b.Windows.msvc",
             "lllcversion" : "Error getting LLLC Version",
             "source" : "src\\DposBlockTestsFiller\\bcForkChainTest\\ChainAVotetoChainBFiller.json",
             "sourceHash" : "cb03db717df4425c25864c2f146540642b19c5907bf68a9dfcf2c554f083ee69"
