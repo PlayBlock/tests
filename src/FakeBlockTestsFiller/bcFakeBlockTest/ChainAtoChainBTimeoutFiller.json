@@ -64,7 +64,7 @@
 		    }
         },
 		"fake" : {
-		    "Timeout" : {"B" : "8"} 
+		    "Timeout" : {"B" : "10"} 
 		},
         "blocks" : [
 		    {
