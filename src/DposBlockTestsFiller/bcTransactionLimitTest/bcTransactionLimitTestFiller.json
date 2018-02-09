@@ -27,16 +27,16 @@
 		    "network" : ["ALL"],
 		    "result" : {
 			    "095e7baea6a6c7c4c2dfeb977efac326af552d87" : {
-				"balance" : "102400"
+				"balance" : "1000000"
 			    },
-			    "a94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
-				"nonce" : "10240"
+			    "0077f58a795170c37bbaf003f0c6727f3fb4dde5" : {
+				"nonce" : "100000"
 			    }
 		    }
 	    }
         ], 
         "pre" : {
-            "0x0077f58a795170c37bbaf003f0c6727f3fb4dde5" : {
+            "0077f58a795170c37bbaf003f0c6727f3fb4dde5" : {
                 "balance" : "99900000000000000000000",
                 "nonce" : "0",
                 "code" : "",
