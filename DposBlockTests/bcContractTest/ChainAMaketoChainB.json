@@ -2,7 +2,7 @@
     "ChainAMaketoChainB_Frontier" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.7b5ac3c3.Windows.msvc",
+            "filledwith" : "cpp-1.3.0+commit.9eb874cc.Windows.msvc",
             "lllcversion" : "Error getting LLLC Version",
             "source" : "src\\DposBlockTestsFiller\\bcContractTest\\ChainAMaketoChainBFiller.json",
             "sourceHash" : "501f2a5a1f5c911213e26cff772f7d60d5b77b40f9c7a954c6da427eda8b89f4"

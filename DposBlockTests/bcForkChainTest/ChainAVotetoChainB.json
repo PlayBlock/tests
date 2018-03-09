@@ -2,7 +2,7 @@
     "ChainAVotetoChainB_Frontier" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.7b5ac3c3.Windows.msvc",
+            "filledwith" : "cpp-1.3.0+commit.ba3d3e56.Windows.msvc",
             "lllcversion" : "Error getting LLLC Version",
             "source" : "src\\DposBlockTestsFiller\\bcForkChainTest\\ChainAVotetoChainBFiller.json",
             "sourceHash" : "5845b8094403804b5d043485611857b38c35a6abaea015df76e6129c337c1c3b"

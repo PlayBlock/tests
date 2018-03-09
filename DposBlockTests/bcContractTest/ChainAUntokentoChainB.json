@@ -2,7 +2,7 @@
     "ChainAUntokentoChainB_Frontier" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.7b5ac3c3.Windows.msvc",
+            "filledwith" : "cpp-1.3.0+commit.9eb874cc.Windows.msvc",
             "lllcversion" : "Error getting LLLC Version",
             "source" : "src\\DposBlockTestsFiller\\bcContractTest\\ChainAUntokentoChainBFiller.json",
             "sourceHash" : "804d6a74d818243b776e00d961450044329f3800a661de1c2a68c7c2ce0ead63"
